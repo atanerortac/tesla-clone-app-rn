@@ -23,6 +23,7 @@ Tesla clone app (Front-end) with react-native, built for practical purposes.
 
 ![tesla-cl](https://user-images.githubusercontent.com/86429134/134007791-f562f8f3-d0a2-4fb9-84b8-33ef5a45b27e.JPG)
 
+
 ## 🚀 How to use
 
 - Install packages with `yarn` or `npm install`.
